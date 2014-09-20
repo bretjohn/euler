@@ -9,7 +9,7 @@
 
 import sys
 
-class FirstProblem:
+class SecondProblem:
 	def run(self, start = [1,1], limit = 4000000, mods=[2,]):
 		finalSum = 0
 		fullSum = 0
@@ -33,7 +33,7 @@ class FirstProblem:
 			fullSum))
 
 def main():
-	program = FirstProblem()
+	program = SecondProblem()
 	program.run()
 
 if __name__ == "__main__":

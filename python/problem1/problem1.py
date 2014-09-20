@@ -1,4 +1,12 @@
 #!/usr/bin/python3
+
+# Euler project problem 1
+# Author: 	Brett Johnson
+# Date:		17 September 2014
+# Prompt:
+#	Simple mod sum
+#	Find the sum of all multiples of 3 and 5 of ints from 1 to 1000
+
 import sys
 
 class FirstProblem:
