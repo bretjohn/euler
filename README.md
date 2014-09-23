@@ -1,6 +1,6 @@
 euler
 =====
 
-Project Euler Problems
+Answers to problems from Project Euler
 
-OMG I KNOWZ THE GIT!
+Most are written in Python
