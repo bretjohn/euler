@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Euler project problem 2
+# Euler project problem 3
 # Author: 	Brett Johnson
 # Date:		19 September 2014
 # Prompt:
